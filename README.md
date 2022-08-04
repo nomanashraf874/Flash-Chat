@@ -2,6 +2,7 @@
 
 Flash Chat is an internet based messaging app similar to WhatsApp.Firebase Firestore as a backend database to store and retrieve messages from the cloud. 
 
+## User Stories
 - [x] User can Login.
 - [x] User can Logout.
 - [x] Add and retrieve messages from database.
